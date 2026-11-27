@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://syncbase.us/</loc><lastmod>2026-11-27</lastmod></url>
+  <url><loc>https://syncbase.us/automations/</loc><lastmod>2026-11-27</lastmod></url>
+  <url><loc>https://syncbase.us/ai-agents/</loc><lastmod>2026-11-27</lastmod></url>
+  <url><loc>https://syncbase.us/apps/</loc><lastmod>2026-11-27</lastmod></url>
+  <url><loc>https://syncbase.us/websites/</loc><lastmod>2026-11-27</lastmod></url>
 </urlset>
